@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dashboard_UI_Kit/static/css/main.eeaafdba.css",
+    "main.js": "/Dashboard_UI_Kit/static/js/main.15da4cf6.js",
+    "index.html": "/Dashboard_UI_Kit/index.html",
+    "main.eeaafdba.css.map": "/Dashboard_UI_Kit/static/css/main.eeaafdba.css.map",
+    "main.15da4cf6.js.map": "/Dashboard_UI_Kit/static/js/main.15da4cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeaafdba.css",
+    "static/js/main.15da4cf6.js"
+  ]
+}
