@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+import { ToastContainer } from 'react-toastify';
 import './App.css';
+import Routes from '../routes.js';
 
 function App() {
   return (
     <div className="App">
+      <Routes />
+      <ToastContainer />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
