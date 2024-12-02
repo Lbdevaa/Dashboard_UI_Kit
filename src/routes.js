@@ -12,7 +12,7 @@ import PageTransition from './Components/PageTransition/PageTransition';
 
 const Router = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/Dashboard_UI_Kit'>
       <Routes>
           <Route
             path="/"
