@@ -11,6 +11,7 @@ import Settings from './Components/dashboard-layout/pages/Settings/Settings';
 import PageTransition from './Components/PageTransition/PageTransition';
 
 const Router = () => {
+
   return (
     <BrowserRouter basename='/Dashboard_UI_Kit'>
       <Routes>
